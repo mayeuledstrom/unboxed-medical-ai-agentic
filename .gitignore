@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.idea/
+.DS_Store
+__pycache__
+RAG/RAG_Base/chroma_db
+*.dcm
+.env
+node_modules/
+dataset/
+output/
+*.db
+*.sqlite

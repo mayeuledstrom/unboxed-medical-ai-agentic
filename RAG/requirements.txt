@@ -1,0 +1,11 @@
+# RAG Médical — Dépendances
+# Installer avec : pip install -r requirements.txt
+
+mistralai==1.12.4
+python-dotenv==1.2.1
+chromadb==1.5.2
+pandas==2.3.3
+openpyxl==3.1.5
+requests>=2.28.0
+sounddevice>=0.4.6
+soundfile>=0.12.1

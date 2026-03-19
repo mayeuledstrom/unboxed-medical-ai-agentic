@@ -1,0 +1,11 @@
+# General idea
+
+```mermaid
+graph
+    A((Agentic AI)) ---> B(Radiologist)
+    B ---> A
+    C(Ancient scans & reports) ---> A
+    D(New scan) ---> A
+    A ---> E(New report)
+
+```
